@@ -1,0 +1,10 @@
+{
+  "name": "Qiingshu QX Icons",
+  "description": "个人自用 Quantumult X 图标",
+  "icons": [
+    {
+      "name": "Wget",
+      "url": "https://raw.githubusercontent.com/qiingshu/qx-icons/main/Wget.png"
+    }
+  ]
+}
