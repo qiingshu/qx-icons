@@ -5,6 +5,10 @@
     {
       "name": "Wget",
       "url": "https://raw.githubusercontent.com/qiingshu/qx-icons/main/Wget.png"
+    },
+    {
+      "name": "WgetCloud",
+      "url": "https://raw.githubusercontent.com/qiingshu/qx-icons/main/WgetCloud.png"
     }
   ]
 }
